@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (GAME1007_SDLTemplate.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Engine.cpp
+C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameFundamental\GAME1007_M3_KolipSinan\GAME1007_SDLTemplate\Engine.cpp(326,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameFundamental\GAME1007_M3_KolipSinan\GAME1007_SDLTemplate\Engine.cpp(328,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameFundamental\GAME1007_M3_KolipSinan\GAME1007_SDLTemplate\Engine.cpp(330,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameFundamental\GAME1007_M3_KolipSinan\GAME1007_SDLTemplate\Engine.cpp(332,20): warning C4018: '<': signed/unsigned mismatch
+  GAME1007_SDLTemplate.vcxproj -> C:\Users\HP\Desktop\Game Programming Semester 1\Lab Exercise\GameFundamental\GAME1007_M3_KolipSinan\Debug\GAME1007_SDL.exe
